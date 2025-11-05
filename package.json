@@ -1,0 +1,12 @@
+
+{
+  "name": "gasec-mental-health-full-starter",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["web", "functions"],
+  "scripts": {
+    "start:web": "cd web && npm run dev",
+    "build:web": "cd web && npm run build",
+    "deploy:functions": "cd functions && npm run deploy"
+  }
+}

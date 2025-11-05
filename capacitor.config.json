@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.gangu.gasec",
+  "appName": "GASEC Mental Health App",
+  "webDir": "web/dist",
+  "bundledWebRuntime": false
+}
